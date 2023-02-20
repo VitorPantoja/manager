@@ -1,0 +1,12 @@
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\bin\Debug\net7.0\Manager.Domain.deps.json
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\bin\Debug\net7.0\Manager.Domain.dll
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\bin\Debug\net7.0\Manager.Domain.pdb
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.dll
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\refint\Manager.Domain.dll
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\Manager.Domain.pdb
+C:\Users\jamp0\RiderProjects\Manager\Manager.Domain\obj\Debug\net7.0\ref\Manager.Domain.dll
