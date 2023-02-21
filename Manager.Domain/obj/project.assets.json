@@ -14,6 +14,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Manager.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Manager.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Manager.Core.dll": {}
+        }
       }
     }
   },
@@ -40,11 +50,17 @@
         "lib/netstandard2.1/FluentValidation.dll",
         "lib/netstandard2.1/FluentValidation.xml"
       ]
+    },
+    "Manager.Core/1.0.0": {
+      "type": "project",
+      "path": "../Manager.Core/Manager.Core.csproj",
+      "msbuildProject": "../Manager.Core/Manager.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "FluentValidation >= 11.5.1"
+      "FluentValidation >= 11.5.1",
+      "Manager.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,7 +87,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Core\\Manager.Core.csproj": {
+              "projectPath": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Core\\Manager.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -105,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\jamp0\\.dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
