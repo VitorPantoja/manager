@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Api\\Manager.API.csproj": {}
+    "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.API\\Manager.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Api\\Manager.API.csproj": {
+    "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.API\\Manager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Api\\Manager.API.csproj",
+        "projectUniqueName": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.API\\Manager.API.csproj",
         "projectName": "Manager.API",
-        "projectPath": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Api\\Manager.API.csproj",
+        "projectPath": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.API\\Manager.API.csproj",
         "packagesPath": "C:\\Users\\jamp0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.Api\\obj\\",
+        "outputPath": "C:\\Users\\jamp0\\RiderProjects\\Manager\\Manager.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamp0\\AppData\\Roaming\\NuGet\\NuGet.Config"
