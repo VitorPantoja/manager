@@ -5,7 +5,7 @@ using Manager.Infra.Interfaces;
 using Manager.Service.DTO;
 using Manager.Service.Interfaces;
 
-namespace Manager.Service.Service;
+namespace Manager.Service.Services;
 
 public class UserService : IUserService
 {

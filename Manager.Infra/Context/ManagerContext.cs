@@ -1,6 +1,7 @@
 ﻿using Manager.Domain.Entities;
 using Manager.Infra.Mappings;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Org.BouncyCastle.Crypto.Tls;
 
 namespace Manager.Infra.Context

@@ -8,6 +8,8 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="automapper" Version="12.0.1" />
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
@@ -16,6 +18,13 @@
       <Content Include="..\.dockerignore">
         <Link>.dockerignore</Link>
       </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Manager.Domain\Manager.Domain.csproj" />
+      <ProjectReference Include="..\Manager.Service\Manager.Service.csproj" />
+      <ProjectReference Include="..\Manager.Infra\Manager.Infra.csproj" />
+      <ProjectReference Include="..\Manager.Core\Manager.Core.csproj" />
     </ItemGroup>
 
 </Project>
